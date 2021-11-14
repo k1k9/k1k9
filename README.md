@@ -1,16 +1,16 @@
 <h1 align="left"> Hello there 👋 
   
   <a href="https://dribbble.com/k1k9" target="_blank" align="right">
-    <img align="right" alt="Dribble | K1K9" src="https://img.shields.io/badge/Dribbble-2F7BBF?style=for-the-badge&logo=dribbble&logoColor=white" height="40"/>
+    <img align="right" alt="Dribble | K1K9" src="https://img.shields.io/badge/Dribbble-202124?style=for-the-badge&logo=dribbble&logoColor=white" height="40"/>
   </a>
   
   <a href="https://codepen.io/K1K9" target="_blank" align="right">
-    <img align="right" alt="CodePen | K1K9" src="https://img.shields.io/badge/Codepen-2F7BBF?style=for-the-badge&logo=codepen&logoColor=white" height="40"/>
+    <img align="right" alt="CodePen | K1K9" src="https://img.shields.io/badge/Codepen-202124?style=for-the-badge&logo=codepen&logoColor=white" height="40"/>
   </a>
  </h1>
  
 ### About me
-<img align="right"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=k1k9&count_private=true&theme=radical" alt="k1k9" />
+<img align="right"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=k1k9&count_private=true&theme=dark" alt="k1k9" />
 He mainly deals with creating websites, so at the very beginning you will find links to codepen and dribbble, there aren't many works, but you can always take a look if you want. The github account is mainly used for private projects cut off a bit from the frontend, most of them are hidden because I often start something and didn't finish it 😅. The technologies I'd used are below and the frequency with which I use them on the github on the right.
 <br/><br/>
 <div>
@@ -36,4 +36,4 @@ He mainly deals with creating websites, so at the very beginning you will find l
 <br/><br/><br/>
 
 ### How lazy I am
-![github graph](https://activity-graph.herokuapp.com/graph?username=k1k9&theme=react-dark)
+![github graph](https://activity-graph.herokuapp.com/graph?username=k1k9&theme=xcode)
