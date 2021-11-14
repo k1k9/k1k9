@@ -36,4 +36,4 @@ He mainly deals with creating websites, so at the very beginning you will find l
 <br/><br/><br/>
 
 ### How lazy I am
-![github graph](https://activity-graph.herokuapp.com/graph?username=k1k9&theme=xcode)
+![How lazy I am](https://activity-graph.herokuapp.com/graph?username=k1k9&custom_title=Only%20public%20repos&theme=xcode)]
