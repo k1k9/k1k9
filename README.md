@@ -10,7 +10,7 @@
  </h1>
  
 ### About me
-<img align="right"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=k1k9&count_private=true&theme=dark" alt="k1k9" />
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=k1k9&layout=compact&theme=dark" alt="k1k9" />
 He mainly deals with creating websites, so at the very beginning you will find links to codepen and dribbble, there aren't many works, but you can always take a look if you want. The github account is mainly used for private projects cut off a bit from the frontend, most of them are hidden because I often start something and didn't finish it 😅. The technologies I'd used are below and the frequency with which I use them on the github on the right.
 <br/><br/>
 <div>
