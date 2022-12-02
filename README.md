@@ -34,6 +34,3 @@ I mainly deals with creating websites, so at the very beginning you will find li
   <img align="left"  src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" alt="k1k9" />
 </div>
 <br/><br/><br/>
-
-### How lazy I am
-![How lazy I am](https://activity-graph.herokuapp.com/graph?username=k1k9&custom_title=Only%20public%20repos&theme=xcode)
